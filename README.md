@@ -12,9 +12,9 @@
   
 <p>&nbsp;</p>
 
-- Feel free to contact me via my email
+  Feel free to contact me via my email
 
-<br><br>
+<br>
 
 ![BlueKiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Killer87&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-Killer87&layout=compact&hide_border=true&bg_color=00000000&title_color=12850)](https://github.com/anuraghazra/github-readme-stats)
