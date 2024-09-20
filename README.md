@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Blue!</h1>
 
-<h3>A backend developer/linux wizard from Czech republic</h3>
+<h3 align="center">A backend developer/linux wizard from Czech republic</h3>
 
 
 - I'm currently studying application of IT in natural sciences on University
