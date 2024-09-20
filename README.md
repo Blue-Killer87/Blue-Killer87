@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Blue-Killer87=anuraghazra&show_icons=true)
+![BlueKiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Killer87&show_icons=true)
