@@ -2,7 +2,7 @@
 
 <h3 align="center">A backend developer/linux wizard from Czech republic</h3>
 
-
+<br>
 - I'm currently studying application of IT in natural sciences on University
 - My most used programming languages are Python and C++
 - I'm currently struggling to learn Rust
