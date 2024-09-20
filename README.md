@@ -9,7 +9,7 @@
 - I'm interested in Cyber security, Astrophysics and Nuclear physics
 - I use Arch btw
 <br>
-  - Feel free to contact me via my email 
+  Feel free to contact me via my email 
 <br><br>
 
 ![BlueKiller's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blue-Killer87&show_icons=true&theme=transparent)
