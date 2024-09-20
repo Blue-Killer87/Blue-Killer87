@@ -12,7 +12,7 @@
   
 <p>&nbsp;</p>
 
-  Feel free to contact me via my email
+  Feel free to contact me via email
 
 <br>
 
