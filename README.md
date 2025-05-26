@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 
 - I'm currently studying application of IT in natural sciences on University
-- My most used programming languages are Python, Pascal and C++
+- My most used programming languages are Python, C and C++
 - I'm currently struggling to learn Rust
 - I'm interested in Cyber security, Astrophysics and Nuclear physics
 - I use Arch btw
